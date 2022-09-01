@@ -1,2 +1,2 @@
-# C++_learing
-This repository is my first C++ notes ! I hope you can master it proficiently!
+# C++学习笔记
+以下文件均为C++学习时的笔记！
